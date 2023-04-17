@@ -41,6 +41,7 @@ def send_love(name):
 
 # 在这里输入表白对象的名字
 
-if __name__ == "__main__”:
+if __name__ == "__main__":
+    #main()
     send_love("翁语昕")
 
